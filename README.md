@@ -7,7 +7,7 @@
 🔹 Passionate about **AI, OCR, Archiving, and Enterprise Content Management Solutions**  
 
 ## 🏆 Notable Achievements
-- **Led** a team delivering 15+ successful banking and government sector projects  
+- **Led** a team delivering 20+ successful banking and government sector projects  
 - **Managed** software solutions for **CIB, QNB, Bank Misr, AAIB, ENBD, and more**  
 - **Built** enterprise-level **OCR, archiving, and warehouse management systems**  
 - **Recognized** as *Employee of the Year* in **2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2024**  
